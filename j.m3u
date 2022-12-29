@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-ID="ard.de" tvg-name="DE- Das Erste FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/daserste.png" group-title="EU- DE GENERAL",DE- Das Erste FHD
 http://prm22.com:8000/cb4o5g8xpc/rjkyp88ckq/410301
 #EXTINF:-1 tvg-ID="zdf.de" tvg-name="DE- ZDF FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ZDF-HD.jpg" group-title="EU- DE GENERAL",DE- ZDF FHD
